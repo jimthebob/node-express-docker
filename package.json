@@ -1,0 +1,13 @@
+{
+  "name": "node-express-docker",
+  "version": "1.0.0",
+  "description": "Node.js with Express in Docker",
+  "author": "Jim Bannister <jim.bannister@stfc.ac.uk>",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.16.1"
+  }
+}
